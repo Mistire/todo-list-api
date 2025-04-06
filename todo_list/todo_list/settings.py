@@ -165,3 +165,6 @@ SWAGGER_SETTINGS = {
     },
     'USE_SESSION_AUTH': False,
 }
+
+
+ALLOWED_HOSTS = ['todo-list-api-2dxn.onrender.com', 'localhost', '127.0.0.1']
