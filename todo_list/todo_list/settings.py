@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-79blsb5__io#qehoxq4nyh1rqqq@76ao+p-p-l=ib6vxsqhog+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['todo-list-apii.netlify.app', 'localhost']
 
 
 # Application definition
